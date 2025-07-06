@@ -1,3 +1,8 @@
+<a href="https://www.linkedin.com/in/med-hassan-el-haouat-98909541/" target="_blank">
+  <img src="https://mycreanet.fr/wp-content/uploads/2025/07/Hass_El_Haouat_nataswim_sports.png" alt="el haouat hassan">
+</a>
+
+
 Bienvenue sur mon profil GitHub
 
 Découvrez mon univers dédié au développement web, où je mets en lumière mes compétences et mes projets.
