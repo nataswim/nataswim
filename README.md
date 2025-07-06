@@ -34,4 +34,20 @@ Découvrez mon univers dédié au développement web, où je mets en lumière me
 
 N'hésitez pas à explorer mes dépôts et à me contacter si vous avez des questions ou des opportunités de collaboration.
 
-[![Description de l'image TempoSwim](https://mycreanet.fr/wp-content/uploads/2025/07/TempoSwim.png)](https://www.nataswim.com/)
+<a href="https://mycreanet.fr/" target="_blank">
+  <img src="https://mycreanet.fr/wp-content/uploads/2025/07/TempoSwim.png" alt="mycreanet el haouat hassan">
+</a>
+
+<a href="https://nataswimshop.com/" target="_blank">
+  <img src="https://mycreanet.fr/wp-content/uploads/2025/07/Nataswimshop.png" alt="sport net systems">
+</a>
+
+<a href="https://www.nataswim.com/" target="_blank">
+  <img src="https://mycreanet.fr/wp-content/uploads/2025/07/nataswimcom.png" alt="Description de l'image TempoSwim">
+</a>
+
+
+
+
+
+
